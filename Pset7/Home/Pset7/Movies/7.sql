@@ -1,1 +1,0 @@
-SELECT title,rating FROM ratings JOIN movies WHERE year = '2010' ORDER BY rating desc;

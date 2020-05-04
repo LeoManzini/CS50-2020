@@ -1,1 +1,0 @@
-SELECT printf("%.2f", AVG(rating)) FROM ratings JOIN movies WHERE year = '2012';
